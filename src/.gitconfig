@@ -1,0 +1,6 @@
+[user]
+	name = jwzk
+	email = me@julienwszolek.fr
+[core]
+	editor = vim
+    excludesfile = ~/.gitignore_global
